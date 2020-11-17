@@ -1,0 +1,80 @@
+﻿  Parser.c
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(183,7): warning C4013: 'match' undefined; assuming extern returning int
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(184,32): warning C4013: 'getCurrentToken' undefined; assuming extern returning int
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(184,34): warning C4047: '=': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(288,20): warning C4098: 'parse_TYPE': 'void' function returning a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(297,34): warning C4047: '=': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(322,35): warning C4047: '=': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(447,34): warning C4047: '=': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(448,35): warning C4047: '=': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(514,28): warning C4013: 'checkPreDefAndFullDefMatch' undefined; assuming extern returning int
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(523,42): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(523,42): warning C4024: 'printSemanticErrors': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(659,34): warning C4047: '=': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(838,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(838,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(839,35): warning C4047: '=': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(879,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(879,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(888,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(888,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(891,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(891,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(990,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(990,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1083,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1083,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1087,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1087,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1149,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1149,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1361,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1361,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1368,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1368,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1389,42): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1389,42): warning C4024: 'printSemanticErrors': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1391,50): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1391,50): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1396,50): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1396,50): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1447,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1447,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1450,49): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1450,49): warning C4024: 'assignCurrentTokenToCommands': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1511,21): warning C4013: 'insertFunctionType' undefined; assuming extern returning int
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1525,9): warning C4033: 'insertVariableType' must return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1533,8): warning C4033: 'insertVariableType' must return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1519,12): warning C4101: 'dataItemThatReturnFromTheSymboltable': unreferenced local variable
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1551,9): warning C4033: 'checkPreDefAndFullDefMatch' must return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1690,9): warning C4033: 'insertFunctionType' must return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1721,8): warning C4033: 'insertFunctionType' must return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1800,45): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1800,45): warning C4024: 'printSemanticErrors': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1898,47): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1898,47): warning C4024: 'printSemanticErrors': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1976,48): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1976,48): warning C4024: 'printSemanticErrors': different types for formal and actual parameter 1
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(2202,44): warning C4047: 'function': 'Token *' differs in levels of indirection from 'int'
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(2202,44): warning C4024: 'printSemanticErrors': different types for formal and actual parameter 1
+  SymbolTable.c
+  TablesStack.c
+  Token.c
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Token.c(152,11): warning C4013: 'yylex' undefined; assuming extern returning int
+  win.lex.yy.c
+flex.lex(111,12): warning C4013: 'parse_PROG' undefined; assuming extern returning int
+flex.lex(112,7): warning C4013: 'match' undefined; assuming extern returning int
+flex.lex(117,14): warning C4013: 'free_storage' undefined; assuming extern returning int
+  Generating Code...
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(968): warning C4715: 'parse_ARGS': not all control paths return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1016): warning C4715: 'parse_ARG_LIST_tag': not all control paths return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1178): warning C4715: 'parse_EXPR_LIST_tag': not all control paths return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1129): warning C4715: 'parse_VAR_tag': not all control paths return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1277): warning C4715: 'parse_EXPR_tag': not all control paths return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1348): warning C4715: 'parse_TERM_tag': not all control paths return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1499): warning C4715: 'parse_FACTOR_tag': not all control paths return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1435): warning C4715: 'parse_FACTOR': not all control paths return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1534): warning C4716: 'insertVariableType': must return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1722): warning C4716: 'insertFunctionType': must return a value
+D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Compilation\Parser.c(1636): warning C4716: 'checkPreDefAndFullDefMatch': must return a value
+  Compilation.vcxproj -> D:\מדעי המחשב Hit\שנה ג\סמסטר ב\תורת הקומפילציה\Ex03\Compilation\Debug\Compilation.exe

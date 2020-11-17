@@ -1,0 +1,77 @@
+#include <stdio.h> /* This command is not a part of the language*/
+
+/* Some global variables */
+int value;
+int arr(10);        /* lexically correct !  */
+int mat[10,10];
+
+/*
+  Multi line comment!
+  Check that line numbering remains correct !! */
+*/
+
+int maxValue(int x, int y, int z)
+int function(int x, float y)
+
+int MaxValue(int x, int y, int z) /* id must start with lower case letter */
+{
+	int _max;  /* id can't start with underscore */
+	max = x;
+	if (y != max) max = y;
+	if (y !!= max) max = y;   /* lexical error  */
+	if (z > max) max = z_ ;  /* id can't end with underscore */
+	if (z < y) {z =y}
+	z = max <= x   /* lexically correct !  */
+	z = max >= x   /* lexically correct !  */
+	reurn max   /* mispelled keyword */
+	return
+}
+
+/* if return then void else int - 
+   in comment, the words if, return, int and void
+   should not be recognized as keywords */
+
+int func__tion(int x, float y) /* id can't contain two underscores in row */
+{
+	int value;
+	float real_val_ue;	
+
+	value = 7;
+	value = 9 * 7;
+	value = 9 - 7; /* no subtraction in this language! */
+	value = 9 / 7; /* no division in this language! */
+
+	real_value = 2.78e+10;
+	real_value = 2.78e10;
+	real_value = 2.78e-10;
+	real_value = 002.78e+10; /* leading zeroes not allowed */
+	real_value = 2.0078000e+10;  /* legal float number !! */
+	real_value = 2.78e+0010;  /* leading zeroes in the exponent not allowed */
+	real_value = -2.78e+10; /* the number should be unsigned */
+	real_value = 1.4; /* this is not a legal float number */
+	real_value = 1.4.2; /*This is not acceptable!*/
+	
+	if (value == 4) {value = value + 1;
+			return value}
+}
+
+void main()
+{
+	int result;
+	int arr[3];
+
+	arr[0] = 01;  /* leading zeroes not allowed */
+	arr[1] = 2;
+	arr[2] = 3;
+
+	maxValue = maxValue(arr[0], arr[1], arr[2]);
+}
+
+/*
+     some symbols that are illegal for tokens, but legal 
+     here:  % , $ , ^ , @, " , | , \ , ', 
+*/
+
+/*   Crazy! but the following line is lexically valid! */
+
+	int<void+float[some_id}>=27;2.78e+10,return*

@@ -1,0 +1,76 @@
+
+integer global_value;						/* integer instead of int */
+
+int global_arr[];						/* missing value inside [] */
+
+int global_mat[10,10;						/* missing closing sign ]  */
+
+float global_array[3 3];					/* missing sign ',' between 2 elements */
+
+int maxValue(int x, y, z);					/* Invalid parameters declarations */
+
+void isTriangle(int x, int y int z);		/* missing ',' after int y */
+
+int doSomeCalculations(int x, double y);		/* double here is id, and not a type */
+
+int maxValue(int x, int y, int z)
+{
+	int max;
+	max = x;
+	max = x ** y;						/* two multiplication signs instead of one */
+	
+	if y > max) { max = y }					/* missing opening sign (*/
+	
+	if (z > max { max = z }					/* missing closing sign )*/
+	
+	return max
+}
+
+int isSpcialTriangle(int x, int y, int z)
+{
+	if (x == y) { if (x == z) { return 1 }			/* missing one closing sign at the end }*/
+	
+	if (x int y) { return 2 }				/* int instead of compare sign */
+	
+	if (x + z) { return 2 }					/* + sign instead of compare sign */
+	
+	if (y == z) { return 2 }
+	
+	return 0
+} 
+
+int doSomeCalculations(int x, float y)
+	int value;
+	float real_val_ue;	
+
+	value = 7;
+	value++;					/*  ++ is not a legal operation in the language */
+	value = 9 * 7;
+
+	real_value = 2.78e+10 + 6 != 4;			/* comapre sign can't be here */
+	
+	real_value 2.78e10;				/* missing assignment sign */
+	
+	float real_value = 2.78e-10;			/* defination in the middle of the commmand is not allowed */
+
+	if (value == 4) {value = value + 1;
+			return value}
+}
+
+void main()
+{
+	int result;
+	int arr[3);						/*) sign instead of ] */
+
+	arr = 1;						/* this is valid! */
+	
+	arr_addr[1] += 2;					/* not allowed in this language */
+	
+	arr[2.5] = 3;						/* only integer values are allowed here */
+
+	maxValue = maxValue(arr[0], arr[1] arr[2]);		/* missing sign ',' */
+	
+	maxValue = maxValue(arr[0], arr 1], arr[2]);	/*missing sign [ */
+	
+	maxValue = maxValue arr[0], arr[1], arr[2]);	/*missing starting sign (*/
+}

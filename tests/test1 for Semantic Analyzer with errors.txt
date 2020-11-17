@@ -1,0 +1,89 @@
+
+int value;
+
+int value; /* global varivle already exist */
+
+float value; /* global varible already exist diferrent type */
+
+float mat[10,10];
+
+int ashmedai;
+
+int maxValue(int x, int y, int z);
+
+int minValue(int x, int y, int z);
+
+int maxValue(int x, int y, int z)
+{
+	int x;
+	
+	int value;
+
+	int value; /* global varible already exist */
+
+	float value; /* global varible already exist different type */
+	
+	value = minValue(4,5,3,3); /* number of param not match to defintion */
+	
+	value = minValue(5.3e1, 3, 4 ); /* the type not match to defintion */
+	
+	max = mat[11,1]; /* overflow */
+	
+	value =  5 + 4 + mat[10 , 10]; /* over flow and type aren't match */
+
+	if(5<9)
+	{
+		int t;
+		t = 5.5e3 /* int to float  */
+	};
+	
+	mat[1,1,1] = 1; /* to much params */
+	mat[1,1] = t; /* t doesn't exist */ 
+	
+	if (y != max)
+	{
+		 int max;
+		 max = y
+	};
+	
+	x[1] = 5;	/* not decalre as array */
+	
+	return 5
+}
+
+int minValue(int x, int y)
+{
+	int eee;
+	
+	int rrr;
+	
+	rrr = eee;
+
+	return 5.3e1 /* wrong return type */
+}
+
+int func_tion(int x, float y)
+{
+	int value;
+	float real_value;	
+
+	value = 7;
+	value = 9 * 7;
+
+	real_value = 2.78e+10;
+	real_value = 2.78e10;
+	value = 2.78e-10;
+	return valu	
+}
+
+void main()
+{
+	int result;
+	int arr[3];
+
+	arr[0] = 1;
+	arr[1] = 2;
+	arr[2] = 3;
+
+	return 5
+}
